@@ -1,3 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <string name="app_name">awesome-android-ui</string>
+
+    <!--cirprobtn-->
+    <string name="Lock">Lock</string>
+    <string name="Upload">Upload</string>
+    <string name="Error">Error</string>
+    <string name="Complete">Complete</string>
+    <string name="IndeterminateProgressSample">不确定性</string>
+    <string name="IntegerProgressSample">整数进度条</string>
+    <string name="StateChangeSample">状态改变</string>
+    <string name="ProgressPaddingSample">进度填充</string>
+    <string name="CustomSelectorSample">自定义按钮</string>
+    <array name="sample_list">
+        <item>@string/IndeterminateProgressSample</item>
+        <item>@string/IntegerProgressSample</item>
+        <item>@string/StateChangeSample</item>
+        <item>@string/ProgressPaddingSample</item>
+        <item>@string/CustomSelectorSample</item>
+    </array>
+
+    <integer name="mb_animation">500</integer>
+    <string name="mb_button">Button</string>
+
+
 </resources>
